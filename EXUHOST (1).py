@@ -68,7 +68,7 @@ def keep_alive():
 # ================================
 # 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐓𝐈𝐎𝐍
 # ================================
-TOKEN = '8907277053:AAFtQyoMvcW5vZ1otFAJkQF7qoCWU4F3L2w'  # 𝐑𝐞𝐩𝐥𝐚𝐜𝐞 𝐰𝐢𝐭𝐡 𝐲𝐨𝐮𝐫 𝐚𝐜𝐭𝐮𝐚𝐥 𝐭𝐨𝐤𝐞𝐧
+TOKEN = '7973339143:AAFImpVWHggzPtZMGMSPFueVYy53j_QGwqU'  # 𝐑𝐞𝐩𝐥𝐚𝐜𝐞 𝐰𝐢𝐭𝐡 𝐲𝐨𝐮𝐫 𝐚𝐜𝐭𝐮𝐚𝐥 𝐭𝐨𝐤𝐞𝐧
 OWNER_ID = 8398522835
 ADMIN_ID = 8398522835
 YOUR_USERNAME = '@izi_1244'
